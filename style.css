@@ -28,3 +28,11 @@ section {
 li {
     margin-bottom: 8px;
 }
+a {
+    color: #174a7e;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
