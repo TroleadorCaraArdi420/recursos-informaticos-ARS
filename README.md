@@ -1,5 +1,7 @@
 # recursos-informaticos-ARS
 
+# Eliminar esto mediante el historial de commits
+
 # Descripción
 Este proyecto es un proyecto de ejemplo que contiene recursos utiles relacionados con la informática
 
